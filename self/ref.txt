@@ -1,0 +1,2 @@
+handle skew: https://www.kaggle.com/code/aimack/how-to-handle-skewed-distribution/notebook
+rain precipitation: https://en.wikipedia.org/wiki/Rain
